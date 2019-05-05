@@ -1,0 +1,1 @@
+print("License Plate Recognition using Python OpenCV")
